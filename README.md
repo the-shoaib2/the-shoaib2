@@ -14,7 +14,7 @@
 
 ### 📫 How to Reach Me:
 - Connect with me on [Telegram]() or [LinkedIn](https://linkedin.com/in/yourusername).
-- Shoot me an email at: **your.email@example.com**.
+- Shoot me an email at: **abrohoman019@gmai.com**.
 
 ### 😄 Pronouns:
 - He/Him | She/Her | They/Them

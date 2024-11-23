@@ -21,3 +21,8 @@
 
 ### ⚡ Fun Fact:
 - I can code for hours fueled by coffee and a good playlist!
+
+
+
+https://www.canva.com/design/DAGXVOpU-Po/RrkVVsdYoFKK_qyOW5Z_Nw/edit?utm_content=DAGXVOpU-Po&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton
+https://www.canva.com/design/DAGXVOpU-Po/RrkVVsdYoFKK_qyOW5Z_Nw/edit?utm_content=DAGXVOpU-Po&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton

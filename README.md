@@ -8,7 +8,7 @@
 - Mastering **[your current learning focus, e.g., C , C++, JAVA, JavaScript, Python, Machine Learning, etc.]**.
 - Diving into **[any other topics, frameworks, or technologies you're interested in]** to broaden my skillset.
 
-###  Looking to Collaborate On:
+### 🔗Looking to Collaborate On:
 - Exciting open-source projects, especially in **[your focus area]**.
 - Innovative solutions that bring **[mention specific industries or challenges you're passionate about]** to life.
 
@@ -24,5 +24,3 @@
 
 
 
-https://www.canva.com/design/DAGXVOpU-Po/RrkVVsdYoFKK_qyOW5Z_Nw/edit?utm_content=DAGXVOpU-Po&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton
-https://www.canva.com/design/DAGXVOpU-Po/RrkVVsdYoFKK_qyOW5Z_Nw/edit?utm_content=DAGXVOpU-Po&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton

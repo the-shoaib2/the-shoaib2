@@ -23,10 +23,3 @@
 - I can code for hours fueled by coffee and a good playlist!
 
 
-https://www.canva.com/design/DAGYWUz5K4o/rAuM654AM80WDhuh25uD7Q/edit?utm_content=DAGYWUz5K4o&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton
-
-https://4lnkrm5n-8080.inc1.devtunnels.ms/
-
-https://4lnkrm5n-5173.inc1.devtunnels.ms/
-
-https://4lnkrm5n-5174.inc1.devtunnels.ms/

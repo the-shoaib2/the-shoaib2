@@ -141,10 +141,34 @@
 
 ## 📂 Some Projects
 
-<div align="center" style="display: grid; grid-template-columns: repeat(2, 320px); justify-content: center; gap: 20px;">
+<div align="center" style="
+  display: grid;
+  grid-template-columns: repeat(2, 320px);
+  grid-template-rows: auto auto;
+  gap: 20px;
+  justify-content: center;
+">
 
+<!-- AI Agent (1st) -->
+<div style="background: #1e293b; border-radius: 10px; padding: 20px; width: 320px; box-shadow: 0 4px 8px rgba(0,0,0,0.2);">
+  <h3 style="color: #00C9A7; margin-bottom: 10px;">🤖 AI Agent</h3>
+  <p style="color: #cbd5e1; font-size: 14px; min-height: 80px;">
+    Intelligent agent platform leveraging NLP and automation for productivity.
+  </p>
+  <p style="color:#9ca3af; font-size:12px; margin-bottom: 10px;">Tech Stack:</p>
+  <p>
+    <img src="https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white"/>
+    <img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=flat&logo=tensorflow&logoColor=white"/>
+    <img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=flat&logo=pytorch&logoColor=white"/>
+    <img src="https://img.shields.io/badge/NLP-F05032?style=flat&logo=ibm&logoColor=white" alt="NLP"/>
+    <img src="https://img.shields.io/badge/Docker-2496ED?style=flat&logo=docker&logoColor=white"/>
+  </p>
+  <a href="https://github.com/the-shoaib2/ai-agent" target="_blank" style="text-decoration:none;">
+    <img src="https://img.shields.io/badge/View%20Code-GitHub-181717?style=flat-square&logo=github&logoColor=white" alt="GitHub"/>
+  </a>
+</div>
 
-<!-- Prignify -->
+<!-- Prignify (2nd) -->
 <div style="background: #1e293b; border-radius: 10px; padding: 20px; width: 320px; box-shadow: 0 4px 8px rgba(0,0,0,0.2);">
   <h3 style="color: #00C9A7; margin-bottom: 10px;">🚀 Prignify</h3>
   <p style="color: #cbd5e1; font-size: 14px; min-height: 80px;">
@@ -170,7 +194,7 @@
   </a>
 </div>
 
-<!-- Supershop Management System -->
+<!-- Supershop Management System (3rd) -->
 <div style="background: #1e293b; border-radius: 10px; padding: 20px; width: 320px; box-shadow: 0 4px 8px rgba(0,0,0,0.2);">
   <h3 style="color: #00C9A7; margin-bottom: 10px;">🏬 Supershop Management System</h3>
   <p style="color: #cbd5e1; font-size: 14px; min-height: 80px;">
@@ -188,7 +212,7 @@
   </a>
 </div>
 
-<!-- Meal Sphere -->
+<!-- Meal Sphere (4th) -->
 <div style="background: #1e293b; border-radius: 10px; padding: 20px; width: 320px; box-shadow: 0 4px 8px rgba(0,0,0,0.2);">
   <h3 style="color: #00C9A7; margin-bottom: 10px;">🍽️ Meal Sphere</h3>
   <p style="color: #cbd5e1; font-size: 14px; min-height: 80px;">
@@ -206,26 +230,8 @@
   </a>
 </div>
 
-<!-- AI Agent -->
-<div style="background: #1e293b; border-radius: 10px; padding: 20px; width: 320px; box-shadow: 0 4px 8px rgba(0,0,0,0.2);">
-  <h3 style="color: #00C9A7; margin-bottom: 10px;">🤖 AI Agent</h3>
-  <p style="color: #cbd5e1; font-size: 14px; min-height: 80px;">
-    Intelligent agent platform leveraging NLP and automation for productivity.
-  </p>
-  <p style="color:#9ca3af; font-size:12px; margin-bottom: 10px;">Tech Stack:</p>
-  <p>
-    <img src="https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white"/>
-    <img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=flat&logo=tensorflow&logoColor=white"/>
-    <img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=flat&logo=pytorch&logoColor=white"/>
-    <img src="https://img.shields.io/badge/NLP-F05032?style=flat&logo=ibm&logoColor=white" alt="NLP"/>
-    <img src="https://img.shields.io/badge/Docker-2496ED?style=flat&logo=docker&logoColor=white"/>
-  </p>
-  <a href="https://github.com/the-shoaib2/ai-agent" target="_blank" style="text-decoration:none;">
-    <img src="https://img.shields.io/badge/View%20Code-GitHub-181717?style=flat-square&logo=github&logoColor=white" alt="GitHub"/>
-  </a>
 </div>
 
-</div>
 
 
 

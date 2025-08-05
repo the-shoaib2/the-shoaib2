@@ -138,6 +138,49 @@
 
 ---
 
+
+## 📂 Some Projects
+
+<div align="center" style="display: flex; flex-wrap: wrap; justify-content: center; gap: 20px;">
+
+<!-- Prignify -->
+<div style="background: #1e293b; border-radius: 10px; padding: 20px; width: 280px; box-shadow: 0 4px 8px rgba(0,0,0,0.2);">
+  <h3 style="color: #00C9A7; margin-bottom: 10px;">🚀 Prignify</h3>
+  <p style="color: #cbd5e1; font-size: 14px; min-height: 60px;">
+    Smart productivity tool to organize tasks & goals.
+  </p>
+  <a href="https://github.com/the-shoaib2/Pregnify" target="_blank" style="text-decoration:none;">
+    <img src="https://img.shields.io/badge/View%20Code-GitHub-181717?style=flat-square&logo=github&logoColor=white" alt="GitHub"/>
+  </a>
+</div>
+
+<!-- Supershop Management System -->
+<div style="background: #1e293b; border-radius: 10px; padding: 20px; width: 280px; box-shadow: 0 4px 8px rgba(0,0,0,0.2);">
+  <h3 style="color: #00C9A7; margin-bottom: 10px;">🏬 Supershop Management System</h3>
+  <p style="color: #cbd5e1; font-size: 14px; min-height: 60px;">
+    Spring Boot-based inventory & sales management app.
+  </p>
+  <a href="https://github.com/the-shoaib2/supershop-management-system" target="_blank" style="text-decoration:none;">
+    <img src="https://img.shields.io/badge/View%20Code-GitHub-181717?style=flat-square&logo=github&logoColor=white" alt="GitHub"/>
+  </a>
+</div>
+
+<!-- Meal Sphere -->
+<div style="background: #1e293b; border-radius: 10px; padding: 20px; width: 280px; box-shadow: 0 4px 8px rgba(0,0,0,0.2);">
+  <h3 style="color: #00C9A7; margin-bottom: 10px;">🍽️ Meal Sphere</h3>
+  <p style="color: #cbd5e1; font-size: 14px; min-height: 60px;">
+    Meal planning and recipe sharing platform.
+  </p>
+  <a href="https://github.com/the-shoaib2/meal-sphere" target="_blank" style="text-decoration:none;">
+    <img src="https://img.shields.io/badge/View%20Code-GitHub-181717?style=flat-square&logo=github&logoColor=white" alt="GitHub"/>
+  </a>
+</div>
+
+</div>
+
+
+--
+
 ## 📫 Reach Me  
 📧 Email: [abrohoman019@gmai.com](mailto:abrohoman019@gmai.com)  
 💬 Facebook: [facebook.com/the.shoaib2](https://www.facebook.com/the.shoaib2)  

@@ -144,10 +144,25 @@
 <div align="center" style="display: flex; flex-wrap: wrap; justify-content: center; gap: 20px;">
 
 <!-- Prignify -->
-<div style="background: #1e293b; border-radius: 10px; padding: 20px; width: 280px; box-shadow: 0 4px 8px rgba(0,0,0,0.2);">
+<div style="background: #1e293b; border-radius: 10px; padding: 20px; width: 320px; box-shadow: 0 4px 8px rgba(0,0,0,0.2);">
   <h3 style="color: #00C9A7; margin-bottom: 10px;">🚀 Prignify</h3>
-  <p style="color: #cbd5e1; font-size: 14px; min-height: 60px;">
+  <p style="color: #cbd5e1; font-size: 14px; min-height: 80px;">
     Smart productivity tool to organize tasks & goals.
+  </p>
+  <p style="color:#9ca3af; font-size:12px; margin-bottom: 10px;">Tech Stack:</p>
+  <p>
+    <img src="https://img.shields.io/badge/Node.js-339933?style=flat&logo=node.js&logoColor=white"/>
+    <img src="https://img.shields.io/badge/Express.js-000000?style=flat&logo=express&logoColor=white"/>
+    <img src="https://img.shields.io/badge/Prisma-2D3748?style=flat&logo=prisma&logoColor=white"/>
+    <img src="https://img.shields.io/badge/MySQL-4479A1?style=flat&logo=mysql&logoColor=white"/>
+    <img src="https://img.shields.io/badge/JWT-000000?style=flat&logo=json-web-tokens&logoColor=white"/>
+    <img src="https://img.shields.io/badge/OpenAI-412991?style=flat&logo=openai&logoColor=white"/>
+    <br/>
+    <img src="https://img.shields.io/badge/React-61DAFB?style=flat&logo=react&logoColor=black"/>
+    <img src="https://img.shields.io/badge/Vite-646CFF?style=flat&logo=vite&logoColor=white"/>
+    <img src="https://img.shields.io/badge/Tailwind_CSS-06B6D4?style=flat&logo=tailwind-css&logoColor=white"/>
+    <img src="https://img.shields.io/badge/ShadCN_UI-111827?style=flat&logo=chakra-ui&logoColor=white"/>
+    <img src="https://img.shields.io/badge/Chart.js-FF6384?style=flat&logo=chart.js&logoColor=white"/>
   </p>
   <a href="https://github.com/the-shoaib2/Pregnify" target="_blank" style="text-decoration:none;">
     <img src="https://img.shields.io/badge/View%20Code-GitHub-181717?style=flat-square&logo=github&logoColor=white" alt="GitHub"/>
@@ -155,10 +170,17 @@
 </div>
 
 <!-- Supershop Management System -->
-<div style="background: #1e293b; border-radius: 10px; padding: 20px; width: 280px; box-shadow: 0 4px 8px rgba(0,0,0,0.2);">
+<div style="background: #1e293b; border-radius: 10px; padding: 20px; width: 320px; box-shadow: 0 4px 8px rgba(0,0,0,0.2);">
   <h3 style="color: #00C9A7; margin-bottom: 10px;">🏬 Supershop Management System</h3>
-  <p style="color: #cbd5e1; font-size: 14px; min-height: 60px;">
+  <p style="color: #cbd5e1; font-size: 14px; min-height: 80px;">
     Spring Boot-based inventory & sales management app.
+  </p>
+  <p style="color:#9ca3af; font-size:12px; margin-bottom: 10px;">Tech Stack:</p>
+  <p>
+    <img src="https://img.shields.io/badge/Java-007396?style=flat&logo=java&logoColor=white"/>
+    <img src="https://img.shields.io/badge/Spring_Boot-6DB33F?style=flat&logo=spring-boot&logoColor=white"/>
+    <img src="https://img.shields.io/badge/MySQL-4479A1?style=flat&logo=mysql&logoColor=white"/>
+    <img src="https://img.shields.io/badge/Thymeleaf-005F0F?style=flat&logo=thymeleaf&logoColor=white"/>
   </p>
   <a href="https://github.com/the-shoaib2/supershop-management-system" target="_blank" style="text-decoration:none;">
     <img src="https://img.shields.io/badge/View%20Code-GitHub-181717?style=flat-square&logo=github&logoColor=white" alt="GitHub"/>
@@ -166,17 +188,44 @@
 </div>
 
 <!-- Meal Sphere -->
-<div style="background: #1e293b; border-radius: 10px; padding: 20px; width: 280px; box-shadow: 0 4px 8px rgba(0,0,0,0.2);">
+<div style="background: #1e293b; border-radius: 10px; padding: 20px; width: 320px; box-shadow: 0 4px 8px rgba(0,0,0,0.2);">
   <h3 style="color: #00C9A7; margin-bottom: 10px;">🍽️ Meal Sphere</h3>
-  <p style="color: #cbd5e1; font-size: 14px; min-height: 60px;">
+  <p style="color: #cbd5e1; font-size: 14px; min-height: 80px;">
     Meal planning and recipe sharing platform.
+  </p>
+  <p style="color:#9ca3af; font-size:12px; margin-bottom: 10px;">Tech Stack:</p>
+  <p>
+    <img src="https://img.shields.io/badge/React-61DAFB?style=flat&logo=react&logoColor=black"/>
+    <img src="https://img.shields.io/badge/Node.js-339933?style=flat&logo=node.js&logoColor=white"/>
+    <img src="https://img.shields.io/badge/Express.js-000000?style=flat&logo=express&logoColor=white"/>
+    <img src="https://img.shields.io/badge/MongoDB-47A248?style=flat&logo=mongodb&logoColor=white"/>
   </p>
   <a href="https://github.com/the-shoaib2/meal-sphere" target="_blank" style="text-decoration:none;">
     <img src="https://img.shields.io/badge/View%20Code-GitHub-181717?style=flat-square&logo=github&logoColor=white" alt="GitHub"/>
   </a>
 </div>
 
+<!-- AI Agent -->
+<div style="background: #1e293b; border-radius: 10px; padding: 20px; width: 320px; box-shadow: 0 4px 8px rgba(0,0,0,0.2);">
+  <h3 style="color: #00C9A7; margin-bottom: 10px;">🤖 AI Agent</h3>
+  <p style="color: #cbd5e1; font-size: 14px; min-height: 80px;">
+    Intelligent agent platform leveraging NLP and automation for productivity.
+  </p>
+  <p style="color:#9ca3af; font-size:12px; margin-bottom: 10px;">Tech Stack:</p>
+  <p>
+    <img src="https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white"/>
+    <img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=flat&logo=tensorflow&logoColor=white"/>
+    <img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=flat&logo=pytorch&logoColor=white"/>
+    <img src="https://img.shields.io/badge/NLP-F05032?style=flat&logo=ibm&logoColor=white" alt="NLP"/>
+    <img src="https://img.shields.io/badge/Docker-2496ED?style=flat&logo=docker&logoColor=white"/>
+  </p>
+  <a href="https://github.com/the-shoaib2/ai-agent" target="_blank" style="text-decoration:none;">
+    <img src="https://img.shields.io/badge/View%20Code-GitHub-181717?style=flat-square&logo=github&logoColor=white" alt="GitHub"/>
+  </a>
 </div>
+
+</div>
+
 
 
 --

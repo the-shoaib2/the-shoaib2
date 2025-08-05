@@ -170,7 +170,7 @@
 
 <!-- Pregnify (2nd) -->
 <div style="background: #1e293b; border-radius: 10px; padding: 20px; width: 320px; box-shadow: 0 4px 8px rgba(0,0,0,0.2);">
-  <h3 style="color: #00C9A7; margin-bottom: 10px;">🚀 Prignify</h3>
+  <h3 style="color: #00C9A7; margin-bottom: 10px;">🚀 Pregnify</h3>
   <p style="color: #cbd5e1; font-size: 14px; min-height: 80px;">
    Pregnify is an AI-powered platform for personalized pregnancy risk prediction, real-time health monitoring, and seamless patient-doctor communication.
   </p>

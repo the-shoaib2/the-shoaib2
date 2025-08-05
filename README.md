@@ -141,7 +141,8 @@
 
 ## 📂 Some Projects
 
-<div align="center" style="display: flex; flex-wrap: wrap; justify-content: center; gap: 20px;">
+<div align="center" style="display: grid; grid-template-columns: repeat(2, 320px); justify-content: center; gap: 20px;">
+
 
 <!-- Prignify -->
 <div style="background: #1e293b; border-radius: 10px; padding: 20px; width: 320px; box-shadow: 0 4px 8px rgba(0,0,0,0.2);">

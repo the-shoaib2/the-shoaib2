@@ -219,7 +219,7 @@
     <img src="https://img.shields.io/badge/Zustand-1B1F23?style=flat&logo=zustand&logoColor=white" alt="Zustand"/>
     <img src="https://img.shields.io/badge/Recharts-FF6384?style=flat&logo=chart.js&logoColor=white" alt="Recharts"/>
   </p>
-  <a href="https://github.com/the-shoaib2/supershop-management-system" target="_blank" style="text-decoration:none;">
+  <a href="https://github.com/the-shoaib2/Supershop-Management-System" target="_blank" style="text-decoration:none;">
     <img src="https://img.shields.io/badge/View%20Code-GitHub-181717?style=flat-square&logo=github&logoColor=white" alt="GitHub"/>
   </a>
 </div>

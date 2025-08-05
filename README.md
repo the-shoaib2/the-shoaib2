@@ -232,10 +232,20 @@
   </p>
   <p style="color:#9ca3af; font-size:12px; margin-bottom: 10px;">Tech Stack:</p>
   <p>
-    <img src="https://img.shields.io/badge/React-61DAFB?style=flat&logo=react&logoColor=black"/>
-    <img src="https://img.shields.io/badge/Node.js-339933?style=flat&logo=node.js&logoColor=white"/>
-    <img src="https://img.shields.io/badge/Express.js-000000?style=flat&logo=express&logoColor=white"/>
-    <img src="https://img.shields.io/badge/MongoDB-47A248?style=flat&logo=mongodb&logoColor=white"/>
+    <img src="https://img.shields.io/badge/React-61DAFB?style=flat&logo=react&logoColor=black" alt="React"/>
+    <img src="https://img.shields.io/badge/Next.js-000000?style=flat&logo=next.js&logoColor=white" alt="Next.js"/>
+    <img src="https://img.shields.io/badge/Node.js-339933?style=flat&logo=node.js&logoColor=white" alt="Node.js"/>
+    <img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat&logo=typescript&logoColor=white" alt="TypeScript"/>
+    <img src="https://img.shields.io/badge/Prisma-2D3748?style=flat&logo=prisma&logoColor=white" alt="Prisma"/>
+    <img src="https://img.shields.io/badge/MongoDB-47A248?style=flat&logo=mongodb&logoColor=white" alt="MongoDB"/>
+    <img src="https://img.shields.io/badge/Tailwind_CSS-06B6D4?style=flat&logo=tailwind-css&logoColor=white" alt="Tailwind CSS"/>
+    <img src="https://img.shields.io/badge/React_Hook_Form-EC5990?style=flat&logo=react&logoColor=white" alt="React Hook Form"/>
+    <img src="https://img.shields.io/badge/NextAuth.js-333333?style=flat&logo=nextauthdotjs&logoColor=white" alt="NextAuth.js"/>
+    <img src="https://img.shields.io/badge/Dotenv-008080?style=flat&logo=dotenv&logoColor=white" alt="Dotenv"/>
+    <img src="https://img.shields.io/badge/Framer_Motion-0055FF?style=flat&logo=framer&logoColor=white" alt="Framer Motion"/>
+    <img src="https://img.shields.io/badge/Recharts-FF6384?style=flat&logo=chart.js&logoColor=white" alt="Recharts"/>
+    <img src="https://img.shields.io/badge/Lucid_React-000000?style=flat&logo=react&logoColor=white" alt="Lucide React"/>
+    <img src="https://img.shields.io/badge/NodeMailer-D14836?style=flat&logo=nodemailer&logoColor=white" alt="Nodemailer"/>
   </p>
   <a href="https://github.com/the-shoaib2/meal-sphere" target="_blank" style="text-decoration:none;">
     <img src="https://img.shields.io/badge/View%20Code-GitHub-181717?style=flat-square&logo=github&logoColor=white" alt="GitHub"/>

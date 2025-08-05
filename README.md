@@ -201,10 +201,23 @@
   </p>
   <p style="color:#9ca3af; font-size:12px; margin-bottom: 10px;">Tech Stack:</p>
   <p>
-    <img src="https://img.shields.io/badge/Java-007396?style=flat&logo=java&logoColor=white"/>
-    <img src="https://img.shields.io/badge/Spring_Boot-6DB33F?style=flat&logo=spring-boot&logoColor=white"/>
-    <img src="https://img.shields.io/badge/MySQL-4479A1?style=flat&logo=mysql&logoColor=white"/>
-    <img src="https://img.shields.io/badge/Thymeleaf-005F0F?style=flat&logo=thymeleaf&logoColor=white"/>
+    <img src="https://img.shields.io/badge/Java-007396?style=flat&logo=java&logoColor=white" alt="Java"/>
+    <img src="https://img.shields.io/badge/Spring_Boot-6DB33F?style=flat&logo=spring-boot&logoColor=white" alt="Spring Boot"/>
+    <img src="https://img.shields.io/badge/MongoDB-47A248?style=flat&logo=mongodb&logoColor=white" alt="MongoDB"/>
+    <img src="https://img.shields.io/badge/Kafka-231F20?style=flat&logo=apachekafka&logoColor=white" alt="Kafka"/>
+    <img src="https://img.shields.io/badge/JWT-000000?style=flat&logo=json-web-tokens&logoColor=white" alt="JWT"/>
+    <img src="https://img.shields.io/badge/Cloudinary-4056A1?style=flat&logo=cloudinary&logoColor=white" alt="Cloudinary"/>
+    <img src="https://img.shields.io/badge/OpenAPI-6BC62E?style=flat&logo=openapiinitiative&logoColor=white" alt="OpenAPI"/>
+    <img src="https://img.shields.io/badge/React-61DAFB?style=flat&logo=react&logoColor=black" alt="React"/>
+    <img src="https://img.shields.io/badge/Vite-646CFF?style=flat&logo=vite&logoColor=white" alt="Vite"/>
+    <img src="https://img.shields.io/badge/Tailwind_CSS-06B6D4?style=flat&logo=tailwind-css&logoColor=white" alt="Tailwind CSS"/>
+    <img src="https://img.shields.io/badge/ShadCN_UI-111827?style=flat&logo=chakra-ui&logoColor=white" alt="ShadCN UI"/>
+    <img src="https://img.shields.io/badge/Radix_UI-1A1A1A?style=flat&logo=radix-ui&logoColor=white" alt="Radix UI"/>
+    <img src="https://img.shields.io/badge/Framer_Motion-0055FF?style=flat&logo=framer&logoColor=white" alt="Framer Motion"/>
+    <img src="https://img.shields.io/badge/React_Router-CA4245?style=flat&logo=react-router&logoColor=white" alt="React Router"/>
+    <img src="https://img.shields.io/badge/React_Query-FF4154?style=flat&logo=react-query&logoColor=white" alt="React Query"/>
+    <img src="https://img.shields.io/badge/Zustand-1B1F23?style=flat&logo=zustand&logoColor=white" alt="Zustand"/>
+    <img src="https://img.shields.io/badge/Recharts-FF6384?style=flat&logo=chart.js&logoColor=white" alt="Recharts"/>
   </p>
   <a href="https://github.com/the-shoaib2/supershop-management-system" target="_blank" style="text-decoration:none;">
     <img src="https://img.shields.io/badge/View%20Code-GitHub-181717?style=flat-square&logo=github&logoColor=white" alt="GitHub"/>

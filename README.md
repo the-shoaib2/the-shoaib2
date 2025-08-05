@@ -172,7 +172,7 @@
 <div style="background: #1e293b; border-radius: 10px; padding: 20px; width: 320px; box-shadow: 0 4px 8px rgba(0,0,0,0.2);">
   <h3 style="color: #00C9A7; margin-bottom: 10px;">🚀 Prignify</h3>
   <p style="color: #cbd5e1; font-size: 14px; min-height: 80px;">
-    Smart productivity tool to organize tasks & goals.
+   Pregnify is an AI-powered platform that helps manage pregnancy health by providing personalized risk predictions and real-time monitoring. It connects patients, doctors, and admins through smart communication and data-driven insights for a safer pregnancy journey.
   </p>
   <p style="color:#9ca3af; font-size:12px; margin-bottom: 10px;">Tech Stack:</p>
   <p>

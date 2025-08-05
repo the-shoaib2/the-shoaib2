@@ -168,7 +168,7 @@
   </a>
 </div>
 
-<!-- Prignify (2nd) -->
+<!-- Pregnify (2nd) -->
 <div style="background: #1e293b; border-radius: 10px; padding: 20px; width: 320px; box-shadow: 0 4px 8px rgba(0,0,0,0.2);">
   <h3 style="color: #00C9A7; margin-bottom: 10px;">🚀 Prignify</h3>
   <p style="color: #cbd5e1; font-size: 14px; min-height: 80px;">

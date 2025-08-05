@@ -256,12 +256,12 @@
 
 
 
+---
 
---
+## 📫 Reach Me
 
-## 📫 Reach Me  
-📧 Email: [abrohoman019@gmai.com](mailto:abrohoman019@gmai.com)  
-💬 Facebook: [facebook.com/the.shoaib2](https://www.facebook.com/the.shoaib2)  
+[![Email](https://img.shields.io/badge/Email-abrohoman019%40gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:abrohoman019@gmail.com)  
+[![Facebook](https://img.shields.io/badge/Facebook-the.shoaib2-1877F2?style=for-the-badge&logo=facebook&logoColor=white)](https://www.facebook.com/the.shoaib2)
 
 ---
 

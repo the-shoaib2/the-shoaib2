@@ -4,21 +4,41 @@
 </p>
 
 <!-- SOCIAL LINKS -->
+<!-- SOCIAL LINKS -->
 <p align="center">
   <a href="https://github.com/the-shoaib2" target="_blank" style="text-decoration:none;">
-    <img src="https://img.shields.io/badge/GitHub-the--shoaib2-2f363d?style=for-the-badge&logo=github&logoColor=white" alt="GitHub">
+    <img 
+      src="https://img.shields.io/badge/GitHub-the--shoaib2-2f363d?style=for-the-badge&logo=github&logoColor=white" 
+      alt="GitHub" 
+      style="border-radius:6px;"
+    >
   </a>
   
   <a href="mailto:abrohoman019@gmai.com" target="_blank" style="text-decoration:none;">
-    <img src="https://img.shields.io/badge/Gmail-abrohoman019%40gmail.com-4a90e2?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail">
+    <img 
+      src="https://img.shields.io/badge/Gmail-abrohoman019%40gmail.com-4a90e2?style=for-the-badge&logo=gmail&logoColor=white" 
+      alt="Gmail" 
+      style="border-radius:6px;"
+    >
   </a>
+  
   <a href="https://www.facebook.com/the.shoaib2" target="_blank" style="text-decoration:none;">
-    <img src="https://img.shields.io/badge/Facebook-the.shoaib2-1877F2?style=for-the-badge&logo=facebook&logoColor=white" alt="Facebook">
+    <img 
+      src="https://img.shields.io/badge/Facebook-the.shoaib2-1877F2?style=for-the-badge&logo=facebook&logoColor=white" 
+      alt="Facebook" 
+      style="border-radius:6px;"
+    >
   </a>
+
   <a href="#" target="_blank" style="text-decoration:none;">
-    <img src="https://img.shields.io/badge/Open_Source-Friendly-33CC99?style=for-the-badge&logo=opensourceinitiative&logoColor=white" alt="Open Source">
+    <img 
+      src="https://img.shields.io/badge/Open_Source-Friendly-33CC99?style=for-the-badge&logo=opensourceinitiative&logoColor=white" 
+      alt="Open Source" 
+      style="border-radius:6px;"
+    >
   </a>
 </p>
+
 
 
 

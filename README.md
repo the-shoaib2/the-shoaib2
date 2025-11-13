@@ -5,43 +5,20 @@
 
 <!-- SOCIAL LINKS -->
 <p align="center">
-  <a href="https://github.com/the-shoaib2" target="_blank" style="text-decoration:none;">
-    <span style="display:inline-block; border-radius:8px; overflow:hidden;">
-      <img 
-        src="https://img.shields.io/badge/GitHub-the--shoaib2-2f363d?style=for-the-badge&logo=github&logoColor=white" 
-        alt="GitHub"
-      >
-    </span>
+  <a href="https://github.com/the-shoaib2" target="_blank" style="text-decoration:none; border-radius:8px;">
+    <img src="https://img.shields.io/badge/GitHub-the--shoaib2-2f363d?style=for-the-badge&logo=github&logoColor=white" alt="GitHub">
   </a>
-
+  
   <a href="mailto:abrohoman019@gmai.com" target="_blank" style="text-decoration:none;">
-    <span style="display:inline-block; border-radius:8px; overflow:hidden;">
-      <img 
-        src="https://img.shields.io/badge/Gmail-abrohoman019%40gmail.com-4a90e2?style=for-the-badge&logo=gmail&logoColor=white" 
-        alt="Gmail"
-      >
-    </span>
+    <img src="https://img.shields.io/badge/Gmail-abrohoman019%40gmail.com-4a90e2?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail">
   </a>
-
   <a href="https://www.facebook.com/the.shoaib2" target="_blank" style="text-decoration:none;">
-    <span style="display:inline-block; border-radius:8px; overflow:hidden;">
-      <img 
-        src="https://img.shields.io/badge/Facebook-the.shoaib2-1877F2?style=for-the-badge&logo=facebook&logoColor=white" 
-        alt="Facebook"
-      >
-    </span>
+    <img src="https://img.shields.io/badge/Facebook-the.shoaib2-1877F2?style=for-the-badge&logo=facebook&logoColor=white" alt="Facebook">
   </a>
-
   <a href="#" target="_blank" style="text-decoration:none;">
-    <span style="display:inline-block; border-radius:8px; overflow:hidden;">
-      <img 
-        src="https://img.shields.io/badge/Open_Source-Friendly-33CC99?style=for-the-badge&logo=opensourceinitiative&logoColor=white" 
-        alt="Open Source"
-      >
-    </span>
+    <img src="https://img.shields.io/badge/Open_Source-Friendly-33CC99?style=for-the-badge&logo=opensourceinitiative&logoColor=white" alt="Open Source">
   </a>
 </p>
-
 
 
 

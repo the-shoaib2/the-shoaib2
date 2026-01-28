@@ -8,23 +8,24 @@
 <!-- SOCIAL LINKS -->
 <p align="center">
   <a href="https://github.com/the-shoaib2" target="_blank">
-    <img src="https://img.shields.io/badge/GitHub-the--shoaib2-181717?style=for-the-badge&logo=github&logoColor=white" />
+    <img src="https://img.shields.io/badge/GitHub-181717?style=flat&logo=github&logoColor=white" />
   </a>
   
   <a href="mailto:abrohoman019@gmail.com">
-    <img src="https://img.shields.io/badge/Gmail-Contact%20Me-EA4335?style=for-the-badge&logo=gmail&logoColor=white" />
+    <img src="https://img.shields.io/badge/Gmail-EA4335?style=flat&logo=gmail&logoColor=white" />
   </a>
 
   <a href="https://www.facebook.com/the.shoaib2" target="_blank">
-    <img src="https://img.shields.io/badge/Facebook-Profile-1877F2?style=for-the-badge&logo=facebook&logoColor=white" />
+    <img src="https://img.shields.io/badge/Facebook-1877F2?style=flat&logo=facebook&logoColor=white" />
   </a>
 
   <a href="https://www.linkedin.com/" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white" />
   </a>
 
-  <img src="https://img.shields.io/badge/Open%20Source-Lover-3DA639?style=for-the-badge&logo=opensourceinitiative&logoColor=white" />
+  <img src="https://img.shields.io/badge/Open%20Source-3DA639?style=flat&logo=opensourceinitiative&logoColor=white" />
 </p>
+
 
 
 

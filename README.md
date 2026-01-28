@@ -1,8 +1,3 @@
-<!-- TOP ROW: Left Intro + Right Profile Views -->
-<p align="center">
- 
-</p>
-
 <!-- HEADER: Typing Intro -->
 <p align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&duration=3000&pause=1000&color=00C9A7&center=true&vCenter=true&width=435&lines=Hi+%F0%9F%91%8B%2C+I'm+Shoaib;AI+%2F+ML+%2F+Full+Stack+Developer;Open+Source+Contributor" style="border-radius:10px;" />
@@ -13,21 +8,22 @@
 <!-- SOCIAL LINKS -->
 <p align="center">
   <a href="https://github.com/the-shoaib2" target="_blank">
-    <img src="https://img.shields.io/badge/GitHub-the--shoaib2-2f363d?style=for-the-badge&logo=github&logoColor=white" style="border-radius:8px;" />
+    <img src="https://img.shields.io/badge/GitHub-the--shoaib2-2f363d?style=flat-square&logo=github&logoColor=white" />
   </a>
   
   <a href="mailto:abrohoman019@gmail.com" target="_blank">
-    <img src="https://img.shields.io/badge/Gmail-abrohoman019%40gmail.com-4a90e2?style=for-the-badge&logo=gmail&logoColor=white" style="border-radius:8px;" />
+    <img src="https://img.shields.io/badge/Gmail-abrohoman019%40gmail.com-4a90e2?style=flat-square&logo=gmail&logoColor=white" />
   </a>
 
   <a href="https://www.facebook.com/the.shoaib2" target="_blank">
-    <img src="https://img.shields.io/badge/Facebook-the.shoaib2-1877F2?style=for-the-badge&logo=facebook&logoColor=white" style="border-radius:8px;" />
+    <img src="https://img.shields.io/badge/Facebook-the.shoaib2-1877F2?style=flat-square&logo=facebook&logoColor=white" />
   </a>
 
-  <a href="#" target="_blank">
-    <img src="https://img.shields.io/badge/Open_Source-Friendly-33CC99?style=for-the-badge&logo=opensourceinitiative&logoColor=white" style="border-radius:8px;" />
+  <a href="#">
+    <img src="https://img.shields.io/badge/Open_Source-Friendly-33CC99?style=flat-square&logo=opensourceinitiative&logoColor=white" />
   </a>
 </p>
+
 
 
 

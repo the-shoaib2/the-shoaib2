@@ -259,6 +259,15 @@
   <a href="https://github.com/the-shoaib2/meal-sphere" target="_blank" style="text-decoration:none;">
     <img src="https://img.shields.io/badge/View%20Code-GitHub-181717?style=flat-square&logo=github&logoColor=white" alt="GitHub"/>
   </a>
+
+  <a href="https://github.com/the-shoaib2/meal-sphere" target="_blank" style="text-decoration:none;">
+  <img src="https://img.shields.io/badge/View%20Code-GitHub-181717?style=flat-square&logo=github&logoColor=white" alt="GitHub"/>
+</a>
+
+<a href="https://meal-sphere.vercel.app" target="_blank" style="text-decoration:none;">
+  <img src="https://img.shields.io/badge/Live%20Preview-Vercel-000000?style=flat-square&logo=vercel&logoColor=white" alt="Live Preview"/>
+</a>
+
 </div>
 
 </div>

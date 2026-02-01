@@ -36,7 +36,13 @@
 
 - 💡 **Tech enthusiast** passionate about building software that truly matters.  
 - 🚀 Continuously learning and exploring the depths of systems and AI.  
-- 🎯 Dedicated to solving real-world problems through open-source collaboration.  
+- 🎯 Dedicated to solving real-world problems through open-source collaboration.
+
+<img src="https://img.shields.io/badge/AI-Advanced%20ML-red?style=flat&logo=tensorflow&logoColor=white" /> Advanced concepts in AI & Machine Learning.
+
+<img src="https://img.shields.io/badge/Deep%20Learning-Transformers-purple?style=flat&logo=pytorch&logoColor=white" /> Cutting-edge Deep Learning and transformer architectures.
+
+<img src="https://img.shields.io/badge/Full%20Stack-Modern%20Architecture-brightgreen?style=flat&logo=vercel&logoColor=white" /> Modern Full Stack Application Architectures and best practices.
 
 ---
 

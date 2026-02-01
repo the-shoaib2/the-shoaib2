@@ -27,38 +27,33 @@
 
 
 
-
-
-
-
-
 ## 👨‍💻 About Me
 
 ### 🏷 Skills & Expertise
-<p>
-  <img src="https://img.shields.io/badge/AI-Advanced%20ML-red?style=flat&logo=tensorflow&logoColor=white" alt="AI & ML" />
-  <img src="https://img.shields.io/badge/Deep%20Learning-Transformers-purple?style=flat&logo=pytorch&logoColor=white" alt="Deep Learning" />
-  <img src="https://img.shields.io/badge/Full%20Stack-Modern%20Architecture-brightgreen?style=flat&logo=vercel&logoColor=white" alt="Full Stack" />
+<p align="center">
+  <img src="https://img.shields.io/badge/AI-Advanced%20ML-red?style=for-the-badge&logo=tensorflow&logoColor=white" alt="AI & ML" />
+  <img src="https://img.shields.io/badge/Deep%20Learning-Transformers-purple?style=for-the-badge&logo=pytorch&logoColor=white" alt="Deep Learning" />
+  <img src="https://img.shields.io/badge/Full%20Stack-Modern%20Architecture-brightgreen?style=for-the-badge&logo=vercel&logoColor=white" alt="Full Stack" />
 </p>
 
 ### 🧠 Currently Learning
-<p>
-  <img src="https://img.shields.io/badge/AI%20%26%20ML-Advanced-blue?style=flat&logo=artificialintelligence&logoColor=white" alt="AI Learning" />
-  <img src="https://img.shields.io/badge/Deep%20Learning-Transformers-orange?style=flat&logo=pytorch&logoColor=white" alt="Deep Learning Learning" />
-  <img src="https://img.shields.io/badge/Full%20Stack-Scalable%20Systems-success?style=flat&logo=cloudflare&logoColor=white" alt="Full Stack Learning" />
+<p align="center">
+  <img src="https://img.shields.io/badge/AI%20%26%20ML-Advanced-blue?style=for-the-badge&logo=artificialintelligence&logoColor=white" alt="AI Learning" />
+  <img src="https://img.shields.io/badge/Deep%20Learning-Transformers-orange?style=for-the-badge&logo=pytorch&logoColor=white" alt="Deep Learning Learning" />
+  <img src="https://img.shields.io/badge/Full%20Stack-Scalable%20Systems-success?style=for-the-badge&logo=cloudflare&logoColor=white" alt="Full Stack Learning" />
 </p>
 
 ### 🤝 Let’s Collaborate On
-<p>
-  <img src="https://img.shields.io/badge/NLP-Generative%20AI-blueviolet?style=flat&logo=openai&logoColor=white" alt="NLP" />
-  <img src="https://img.shields.io/badge/Open%20Source-Full%20Stack%20Tools-black?style=flat&logo=github&logoColor=white" alt="Open Source" />
-  <img src="https://img.shields.io/badge/Developer-Productivity%20Tools-yellow?style=flat&logo=visualstudiocode&logoColor=black" alt="Developer Tools" />
+<p align="center">
+  <img src="https://img.shields.io/badge/NLP-Generative%20AI-blueviolet?style=for-the-badge&logo=openai&logoColor=white" alt="NLP" />
+  <img src="https://img.shields.io/badge/Open%20Source-Full%20Stack%20Tools-black?style=for-the-badge&logo=github&logoColor=white" alt="Open Source" />
+  <img src="https://img.shields.io/badge/Developer-Productivity%20Tools-yellow?style=for-the-badge&logo=visualstudiocode&logoColor=black" alt="Developer Tools" />
 </p>
 
 ### 🔗 Connect
-<p>
+<p align="center">
   <a href="https://github.com/the-shoaib2" target="_blank">
-    <img src="https://img.shields.io/badge/GitHub-the--shoaib2-181717?style=flat&logo=github&logoColor=white" alt="GitHub" />
+    <img src="https://img.shields.io/badge/GitHub-the--shoaib2-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
   </a>
 </p>
 

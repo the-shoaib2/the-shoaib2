@@ -34,32 +34,34 @@
 
 ## 👨‍💻 About Me
 
+### 🏷 Skills & Expertise
+<p>
+  <img src="https://img.shields.io/badge/AI-Advanced%20ML-red?style=flat&logo=tensorflow&logoColor=white" alt="AI & ML" />
+  <img src="https://img.shields.io/badge/Deep%20Learning-Transformers-purple?style=flat&logo=pytorch&logoColor=white" alt="Deep Learning" />
+  <img src="https://img.shields.io/badge/Full%20Stack-Modern%20Architecture-brightgreen?style=flat&logo=vercel&logoColor=white" alt="Full Stack" />
+</p>
 
-<img src="https://img.shields.io/badge/AI-Advanced%20ML-red?style=flat&logo=tensorflow&logoColor=white" /> Advanced concepts in AI & Machine Learning.
+### 🧠 Currently Learning
+<p>
+  <img src="https://img.shields.io/badge/AI%20%26%20ML-Advanced-blue?style=flat&logo=artificialintelligence&logoColor=white" alt="AI Learning" />
+  <img src="https://img.shields.io/badge/Deep%20Learning-Transformers-orange?style=flat&logo=pytorch&logoColor=white" alt="Deep Learning Learning" />
+  <img src="https://img.shields.io/badge/Full%20Stack-Scalable%20Systems-success?style=flat&logo=cloudflare&logoColor=white" alt="Full Stack Learning" />
+</p>
 
-<img src="https://img.shields.io/badge/Deep%20Learning-Transformers-purple?style=flat&logo=pytorch&logoColor=white" /> Cutting-edge Deep Learning and transformer architectures.
+### 🤝 Let’s Collaborate On
+<p>
+  <img src="https://img.shields.io/badge/NLP-Generative%20AI-blueviolet?style=flat&logo=openai&logoColor=white" alt="NLP" />
+  <img src="https://img.shields.io/badge/Open%20Source-Full%20Stack%20Tools-black?style=flat&logo=github&logoColor=white" alt="Open Source" />
+  <img src="https://img.shields.io/badge/Developer-Productivity%20Tools-yellow?style=flat&logo=visualstudiocode&logoColor=black" alt="Developer Tools" />
+</p>
 
-<img src="https://img.shields.io/badge/Full%20Stack-Modern%20Architecture-brightgreen?style=flat&logo=vercel&logoColor=white" /> Modern Full Stack Application Architectures and best practices.
+### 🔗 Connect
+<p>
+  <a href="https://github.com/the-shoaib2" target="_blank">
+    <img src="https://img.shields.io/badge/GitHub-the--shoaib2-181717?style=flat&logo=github&logoColor=white" alt="GitHub" />
+  </a>
+</p>
 
-🧠 Currently Learning
-
-<img src="https://img.shields.io/badge/AI%20%26%20ML-Advanced-blue?style=flat&logo=artificialintelligence&logoColor=white" /> Advanced concepts in AI & Machine Learning.
-
-<img src="https://img.shields.io/badge/Deep%20Learning-Transformers-orange?style=flat&logo=pytorch&logoColor=white" /> Cutting-edge Deep Learning and transformer architectures.
-
-<img src="https://img.shields.io/badge/Full%20Stack-Scalable%20Systems-success?style=flat&logo=cloudflare&logoColor=white" /> Modern Full Stack Application Architectures and best practices.
-
-🤝 Let’s Collaborate On
-
-<img src="https://img.shields.io/badge/NLP-Generative%20AI-blueviolet?style=flat&logo=openai&logoColor=white" /> Innovative projects in Natural Language Processing (NLP) & Generative AI.
-
-<img src="https://img.shields.io/badge/Open%20Source-Full%20Stack%20Tools-black?style=flat&logo=github&logoColor=white" /> Development of Full Stack Open Source Tools.
-
-<img src="https://img.shields.io/badge/Developer-Productivity%20Tools-yellow?style=flat&logo=visualstudiocode&logoColor=black" /> Building Developer Tools & enhancing Productivity for the community.
-
-🔗 Connect
-
-<img src="https://img.shields.io/badge/GitHub-the--shoaib2-181717?style=flat&logo=github&logoColor=white" />
 
 ---
 

@@ -34,27 +34,32 @@
 
 ## 👨‍💻 About Me
 
+
 <img src="https://img.shields.io/badge/AI-Advanced%20ML-red?style=flat&logo=tensorflow&logoColor=white" /> Advanced concepts in AI & Machine Learning.
 
 <img src="https://img.shields.io/badge/Deep%20Learning-Transformers-purple?style=flat&logo=pytorch&logoColor=white" /> Cutting-edge Deep Learning and transformer architectures.
 
 <img src="https://img.shields.io/badge/Full%20Stack-Modern%20Architecture-brightgreen?style=flat&logo=vercel&logoColor=white" /> Modern Full Stack Application Architectures and best practices.
 
----
+🧠 Currently Learning
 
-## 🧠 Currently Learning
+<img src="https://img.shields.io/badge/AI%20%26%20ML-Advanced-blue?style=flat&logo=artificialintelligence&logoColor=white" /> Advanced concepts in AI & Machine Learning.
 
-- 🤖 Advanced concepts in **AI & Machine Learning**.  
-- 🧬 Cutting-edge **Deep Learning** and transformer architectures.  
-- 🌍 Modern **Full Stack Application Architectures** and best practices.  
+<img src="https://img.shields.io/badge/Deep%20Learning-Transformers-orange?style=flat&logo=pytorch&logoColor=white" /> Cutting-edge Deep Learning and transformer architectures.
 
----
+<img src="https://img.shields.io/badge/Full%20Stack-Scalable%20Systems-success?style=flat&logo=cloudflare&logoColor=white" /> Modern Full Stack Application Architectures and best practices.
 
-## 🤝 Let's Collaborate On
+🤝 Let’s Collaborate On
 
-- 💬 Innovative projects in **Natural Language Processing (NLP)** & **Generative AI**.  
-- ⚙️ Development of **Full Stack Open Source Tools**.  
-- 🧩 Building **Developer Tools** & enhancing **Productivity** for the community.  
+<img src="https://img.shields.io/badge/NLP-Generative%20AI-blueviolet?style=flat&logo=openai&logoColor=white" /> Innovative projects in Natural Language Processing (NLP) & Generative AI.
+
+<img src="https://img.shields.io/badge/Open%20Source-Full%20Stack%20Tools-black?style=flat&logo=github&logoColor=white" /> Development of Full Stack Open Source Tools.
+
+<img src="https://img.shields.io/badge/Developer-Productivity%20Tools-yellow?style=flat&logo=visualstudiocode&logoColor=black" /> Building Developer Tools & enhancing Productivity for the community.
+
+🔗 Connect
+
+<img src="https://img.shields.io/badge/GitHub-the--shoaib2-181717?style=flat&logo=github&logoColor=white" />
 
 ---
 

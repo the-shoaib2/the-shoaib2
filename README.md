@@ -27,35 +27,51 @@
 
 
 
-## 👨‍💻 About Me
+👨‍💻 About Me
 
-### 🏷 Skills & Expertise
-<p align="center">
-  <img src="https://img.shields.io/badge/AI-Advanced%20ML-red?style=for-the-badge&logo=tensorflow&logoColor=white" alt="AI & ML" />
-  <img src="https://img.shields.io/badge/Deep%20Learning-Transformers-purple?style=for-the-badge&logo=pytorch&logoColor=white" alt="Deep Learning" />
-  <img src="https://img.shields.io/badge/Full%20Stack-Modern%20Architecture-brightgreen?style=for-the-badge&logo=vercel&logoColor=white" alt="Full Stack" />
-</p>
+I am a passionate developer focused on Artificial Intelligence, Deep Learning, and modern Full Stack development. I enjoy building scalable systems, intelligent applications, and developer-focused tools that solve real-world problems.
 
-### 🧠 Currently Learning
-<p align="center">
-  <img src="https://img.shields.io/badge/AI%20%26%20ML-Advanced-blue?style=for-the-badge&logo=artificialintelligence&logoColor=white" alt="AI Learning" />
-  <img src="https://img.shields.io/badge/Deep%20Learning-Transformers-orange?style=for-the-badge&logo=pytorch&logoColor=white" alt="Deep Learning Learning" />
-  <img src="https://img.shields.io/badge/Full%20Stack-Scalable%20Systems-success?style=for-the-badge&logo=cloudflare&logoColor=white" alt="Full Stack Learning" />
-</p>
+🏷 Skills & Expertise
 
-### 🤝 Let’s Collaborate On
-<p align="center">
-  <img src="https://img.shields.io/badge/NLP-Generative%20AI-blueviolet?style=for-the-badge&logo=openai&logoColor=white" alt="NLP" />
-  <img src="https://img.shields.io/badge/Open%20Source-Full%20Stack%20Tools-black?style=for-the-badge&logo=github&logoColor=white" alt="Open Source" />
-  <img src="https://img.shields.io/badge/Developer-Productivity%20Tools-yellow?style=for-the-badge&logo=visualstudiocode&logoColor=black" alt="Developer Tools" />
-</p>
+Artificial Intelligence and Machine Learning
 
-### 🔗 Connect
-<p align="center">
-  <a href="https://github.com/the-shoaib2" target="_blank">
-    <img src="https://img.shields.io/badge/GitHub-the--shoaib2-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
-  </a>
-</p>
+Deep Learning and Transformer-based models
+
+Full Stack Development with modern architecture
+
+Backend system design and API development
+
+Database design and optimization
+
+Building scalable and production-ready applications
+
+🧠 Currently Learning
+
+Advanced AI and ML model optimization
+
+Transformer architectures and LLM systems
+
+Scalable distributed systems
+
+AI-powered developer tools
+
+Performance tuning and system design
+
+🤝 Open to Collaborate On
+
+NLP and Generative AI projects
+
+Open-source full stack tools
+
+AI-powered automation systems
+
+Developer productivity platforms
+
+Research-driven AI applications
+
+🔗 Connect
+
+GitHub: https://github.com/the-shoaib2
 
 
 ---

@@ -27,7 +27,7 @@
 
 
 
-👨‍💻 About Me
+## 👨‍💻 About Me
 
 I am a passionate developer focused on Artificial Intelligence, Deep Learning, and modern Full Stack development. I enjoy building scalable systems, intelligent applications, and developer-focused tools that solve real-world problems.
 

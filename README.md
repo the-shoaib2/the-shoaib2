@@ -29,24 +29,8 @@
 
 👨‍💻 About Me
 
-AI-focused developer building intelligent systems and scalable full stack applications. Passionate about solving real-world problems with clean and efficient architecture.
+I am a passionate developer focused on Artificial Intelligence, Deep Learning, and modern Full Stack development. I enjoy building scalable systems, intelligent applications, and developer-focused tools that solve real-world problems.
 
-
-🧠 Learning
-
-Advanced ML & LLM systems
-
-Scalable architectures
-
-AI-powered tools
-
-🤝 Open to Collaborate
-
-NLP & Generative AI
-
-Open-source tools
-
-Developer productivity platforms
 
 ---
 

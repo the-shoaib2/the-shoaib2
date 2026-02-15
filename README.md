@@ -29,50 +29,24 @@
 
 👨‍💻 About Me
 
-I am a passionate developer focused on Artificial Intelligence, Deep Learning, and modern Full Stack development. I enjoy building scalable systems, intelligent applications, and developer-focused tools that solve real-world problems.
+AI-focused developer building intelligent systems and scalable full stack applications. Passionate about solving real-world problems with clean and efficient architecture.
 
-🏷 Skills & Expertise
 
-Artificial Intelligence and Machine Learning
+🧠 Learning
 
-Deep Learning and Transformer-based models
+Advanced ML & LLM systems
 
-Full Stack Development with modern architecture
+Scalable architectures
 
-Backend system design and API development
+AI-powered tools
 
-Database design and optimization
+🤝 Open to Collaborate
 
-Building scalable and production-ready applications
+NLP & Generative AI
 
-🧠 Currently Learning
-
-Advanced AI and ML model optimization
-
-Transformer architectures and LLM systems
-
-Scalable distributed systems
-
-AI-powered developer tools
-
-Performance tuning and system design
-
-🤝 Open to Collaborate On
-
-NLP and Generative AI projects
-
-Open-source full stack tools
-
-AI-powered automation systems
+Open-source tools
 
 Developer productivity platforms
-
-Research-driven AI applications
-
-🔗 Connect
-
-GitHub: https://github.com/the-shoaib2
-
 
 ---
 

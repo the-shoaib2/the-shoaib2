@@ -248,6 +248,13 @@ I am a passionate developer focused on Artificial Intelligence, Deep Learning, a
 
 
 
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/the-shoaib2/the-shoaib2/output/pacman-contribution-graph-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/the-shoaib2/the-shoaib2/output/pacman-contribution-graph.svg">
+  <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/MNR-Tushar/the-shoaib2/output/pacman-contribution-graph.svg">
+</picture>
+
 ---
 
 ## 📫 Reach Me

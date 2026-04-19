@@ -246,26 +246,20 @@ I am a passionate developer focused on Artificial Intelligence, Deep Learning, a
 
 </div>
 
-
-
-<picture>
-  <source 
-    media="(prefers-color-scheme: dark)" 
-    srcset="https://raw.githubusercontent.com/the-shoaib2/the-shoaib2/output/pacman-contribution-graph-dark.svg">
-
-  <source 
-    media="(prefers-color-scheme: light)" 
-    srcset="https://raw.githubusercontent.com/the-shoaib2/the-shoaib2/output/pacman-contribution-graph.svg">
-
-  <img 
-    alt="pacman contribution graph" 
-    src="https://raw.githubusercontent.com/the-shoaib2/the-shoaib2/output/pacman-contribution-graph.svg">
-</picture>
-
 ---
 
 ## 📫 Reach Me
 
 [![Email](https://img.shields.io/badge/Email-abrohoman019%40gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:abrohoman019@gmail.com)  
 [![Facebook](https://img.shields.io/badge/Facebook-the.shoaib2-1877F2?style=for-the-badge&logo=facebook&logoColor=white)](https://www.facebook.com/the.shoaib2)
+
+
+
+
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="pacman-contribution-graph-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="pacman-contribution-graph.svg">
+  <img alt="pacman contribution graph" src="pacman-contribution-graph.svg">
+</picture>
 

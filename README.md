@@ -257,12 +257,17 @@ I am a passionate developer focused on Artificial Intelligence, Deep Learning, a
 
 <p align="center">
   <a href="mailto:abrohoman019@gmail.com">
-    <img src="https://img.shields.io/badge/Email-abrohoman019%40gmail.com-6C63FF?style=for-the-badge&logo=gmail&logoColor=white"
+    <img src="https://img.shields.io/badge/Email-abrohoman019%40gmail.com-D32F2F?style=for-the-badge&logo=gmail&logoColor=white"
          style="border-radius:12px;" />
   </a>
 
   <a href="https://theshoaib.me/#contact" target="_blank">
-    <img src="https://img.shields.io/badge/Contact_Me-Portfolio_Contact-00C9A7?style=for-the-badge&logo=google-chrome&logoColor=white"
+    <img src="https://img.shields.io/badge/Contact_Me-Get_In_Touch-2E7D32?style=for-the-badge&logo=google-chrome&logoColor=white"
+         style="border-radius:12px;" />
+  </a>
+
+  <a href="https://theshoaib.me/" target="_blank">
+    <img src="https://img.shields.io/badge/Portfolio-Visit_Site-0D47A1?style=for-the-badge&logo=vercel&logoColor=white"
          style="border-radius:12px;" />
   </a>
 </p>

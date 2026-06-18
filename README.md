@@ -255,9 +255,17 @@ I am a passionate developer focused on Artificial Intelligence, Deep Learning, a
 
 ## 📫 Reach Me
 
-[![Email](https://img.shields.io/badge/Email-abrohoman019%40gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:abrohoman019@gmail.com)  
-[![Contact Me](https://img.shields.io/badge/Contact_Me-theshoaib.me-00C9A7?style=for-the-badge&logo=google-chrome&logoColor=white)](https://theshoaib.me/#contact)
+<p align="center">
+  <a href="mailto:abrohoman019@gmail.com">
+    <img src="https://img.shields.io/badge/Email-abrohoman019%40gmail.com-6C63FF?style=for-the-badge&logo=gmail&logoColor=white"
+         style="border-radius:12px;" />
+  </a>
 
+  <a href="https://theshoaib.me/#contact" target="_blank">
+    <img src="https://img.shields.io/badge/Contact_Me-Portfolio_Contact-00C9A7?style=for-the-badge&logo=google-chrome&logoColor=white"
+         style="border-radius:12px;" />
+  </a>
+</p>
 
 
 

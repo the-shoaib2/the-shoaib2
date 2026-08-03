@@ -284,3 +284,6 @@ I am a passionate developer focused on Artificial Intelligence, Deep Learning, a
        src="https://raw.githubusercontent.com/the-shoaib2/the-shoaib2/output/pacman-contribution-graph.svg">
 </picture>
 
+<p align="center">
+  <a href="https://docs.google.com/document/d/1g5nCmGSi7aDHREx7z3urulvr7nceX8WU" target="_blank">temp</a>
+</p>
